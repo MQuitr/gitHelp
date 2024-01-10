@@ -57,5 +57,7 @@
 
 ## Навигация по коммитам
 В разработке
-![Работаем](https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e476176v8gufwxehjcylspu8cc47ttvid73ej6g2pvo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 ~~Данное руководство находится в разработке, с улучшением знаний оно будет форматироваться!~~
+
+![Работаем](https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e476176v8gufwxehjcylspu8cc47ttvid73ej6g2pvo&ep=v1_gifs_search&rid=giphy.gif&ct=g)

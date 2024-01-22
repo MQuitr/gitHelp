@@ -72,6 +72,14 @@
 3. Tracked - файлы которые так или иначе ослеживаются гитом, противоположность Untracked.
 4. Modified - файлы, которые подверглись изменению и ожидают внесения изменений в коммит.
 
+```mermaid
+graph LR;
+untracked -- "git add" --> staged;
+staged -- "git commit -m" --> tracked\commited;
+modified -- "git add" --> staged;
+tracked\commited -- "[Edit file]" --> modified 
+```
+
 ~~Данное руководство находится в разработке, с улучшением знаний оно будет форматироваться!~~
 
 ![Работаем](https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e476176v8gufwxehjcylspu8cc47ttvid73ej6g2pvo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
